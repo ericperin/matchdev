@@ -20,3 +20,8 @@ Run emulator
 react-native run-android
 react-native run-ios
 ```
+
+Add Navigations
+```
+yarn add react-navigation react-native-gesture-handler react-native-reanimated
+```
